@@ -6,3 +6,4 @@ This repository contains implementations and explanations of various data struct
 
 - [Arrays](https://github.com/odbalapure/data-structures-algorithms/tree/master/arrays)
 - [Stacks](https://github.com/odbalapure/data-structures-algorithms/tree/master/stacks)
+- [Linked List](https://github.com/odbalapure/data-structures-algorithms/tree/master/linked_list)

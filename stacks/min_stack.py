@@ -20,9 +20,4 @@ class MinStack:
         return self.stack[-1]
 
     def get_min(self):
-        """
-        Get min value in the stack
-        :Time: O(1)
-        :Space: O(1)
-        """
         return self.min_stack[-1]
