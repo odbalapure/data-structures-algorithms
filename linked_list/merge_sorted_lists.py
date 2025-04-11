@@ -1,4 +1,4 @@
-from .linked_list import ListNode
+from node import ListNode
 
 
 def merge_list(list1: ListNode, list2: ListNode) -> ListNode:

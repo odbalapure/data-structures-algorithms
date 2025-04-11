@@ -1,4 +1,4 @@
-from .linked_list import ListNode
+from node import ListNode
 
 
 def reverse(head: ListNode) -> ListNode:
