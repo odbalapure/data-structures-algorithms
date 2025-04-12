@@ -1,4 +1,9 @@
 def fibonacci(n):
+    """
+    Find Nth fibnoacci number
+    Time: O(N)
+    Space: O(1)
+    """
     if n <= 1:
         return n
 
@@ -10,8 +15,14 @@ def fibonacci(n):
 
 
 def fibonacci(n):
+    """
+    Find Nth fibnoacci number
+    Time: O(2^N)
+    Space: O(N)
+    """
     if n <= 1:
         return n
+
     return fibonacci(n - 1) + fibonacci(n - 2)
 
 
