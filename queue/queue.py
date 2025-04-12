@@ -49,7 +49,7 @@ for i in range(5):
 queue.print()  # 1 -> 2 -> 3 -> 4 -> 5 -> None
 
 queue.deque()
-queue.print()  # 1 -> 2 -> 3 -> 4 -> None
+queue.print()  # 2 -> 3 -> 4 -> None
 
 queue.enqueue(100)
 queue.deque()
